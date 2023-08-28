@@ -95,3 +95,4 @@ int write_pointer(char buffer[], int ind, int length, int width, int flags, char
 
 int write_unsgnd(int is_negative, int ind, char buffer[], int flags, int width, int precision, int size);
 
+#endif
